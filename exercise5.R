@@ -1,3 +1,6 @@
+#Consider the experiment of tossing three coins, and the events A=heads
+#and tails occur and B=fewer than two heads occur. Are the events A and
+#B independent or dependent?
 # We consider the sample space of all outcomes from tossing 3 fair coins.
 # Each outcome is a sequence of H (heads) and T (tails).
 # There are 2^3 = 8 equally likely outcomes.
