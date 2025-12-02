@@ -5,7 +5,7 @@ p <- 0.3  # Probability of event A
 q <- 1 - p # Probability of event not A
 
 # Define the random variable X values
-X <- c(0, 1)
+X  <- c(0, 1)
 
 # Probability function
 probabilities <- c(q, p)
